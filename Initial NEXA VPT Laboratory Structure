@@ -1,8 +1,8 @@
-docs/
-papers/
-validation/
-experiments/
-observability/
-nexa_core/
-automation/
-data/
+docs/.gitkeep
+papers/.gitkeep
+validation/.gitkeep
+experiments/.gitkeep
+observability/.gitkeep
+nexa_core/.gitkeep
+automation/.gitkeep
+data/.gitkeep
