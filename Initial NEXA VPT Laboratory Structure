@@ -6,22 +6,8 @@ observability/.gitkeep
 nexa_core/.gitkeep
 automation/.gitkeep
 data/.gitkeep
-# Research Journal
 
-## 2026-06-03
-
-### Observation
-
-Repository established.
-
-### Hypothesis
-
-Evidence accumulation may become the primary constraint rather than theory generation.
-
-### Evidence
-
-NEXA architecture and VPT framework already exist.
-
-### Next Action
-
-Begin empirical validation.
+RESEARCH_JOURNAL.md
+ROADMAP.md
+CHANGELOG.md
+HYPOTHESES.md
